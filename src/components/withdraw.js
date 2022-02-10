@@ -75,7 +75,7 @@ function Withdraw() {
             <Card
               style={{ maxWidth: "25rem", marginTop: "4rem" }}
               bgcolor="dark"
-              header="Make a Withdraw"
+              header="Make a Withdrawal"
               status={status}
               body={
                 <>
