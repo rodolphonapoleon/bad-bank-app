@@ -81,7 +81,7 @@ function Withdraw() {
                 <>
                   <h3>Balance: ${ctx.users[0].balance}</h3>
                   <br />
-                  Withdraw Amount
+                  Withdrawal Amount
                   <br />
                   <input
                     type="input"
@@ -117,7 +117,7 @@ function Withdraw() {
                 <>
                   <h5 className="fs-2 text-primary">Success</h5>
                   <br />
-                  <h5>You have withdrawed ${amount} </h5>
+                  <h5>You have withdrawn ${amount} </h5>
                   <div>Your balance is now ${ctx.users[0].balance} </div>
                   <br />
                   <button
@@ -125,7 +125,7 @@ function Withdraw() {
                     className="btn btn-primary"
                     onClick={clearForm}
                   >
-                    Make another withdraw
+                    Make another withdrawal
                   </button>
                 </>
               }

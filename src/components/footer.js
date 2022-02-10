@@ -44,7 +44,7 @@ export default function Footer() {
               }}
             >
               <li className="list-unstyled fw-bold text-primary text-opacity-75">
-                RESSOURCES
+                RESOURCES
               </li>
               <li className="list-unstyled">
                 <a href="#!" className="text-decoration-none text-muted">
@@ -77,7 +77,7 @@ export default function Footer() {
               </li>
               <li className="list-unstyled">
                 <a href="#!" className="text-decoration-none text-muted">
-                  Customer service
+                  Customer Service
                 </a>
               </li>
               <li className="list-unstyled">
