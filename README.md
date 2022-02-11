@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+<!-- <p align="center"><img width="150" src="https://res.cloudinary.com/napo05/image/upload/c_scale,w_150/v1635302697/SocialMediaLogo/pacman_pic_ynt7ke.png" alt="pacman-logo"></p> -->
+<h1 align="center">
+BadBank
+</h1>
+<p align="center">A frontend banking application<p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+In this project, i simulate a frontend banking application will the basic features, create an account, make a deposit or make a withdrawal. Also i added a feature where a user can login or logout easily. I added some form validation. I added an extra administrative page (all data) to display users information. The application is created with React, styled with Bootstrap and deplpoyed on AWS. 
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+### Installing
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Fork the repo
+* Clone it to your local machine
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Executing application
 
-### `npm test`
+* Open the app with create-react-app
+* Install the node_modules 
+* And npm start to launch a local server to be able to see the result
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Support
 
-### `npm run build`
+For any problems or issues:
+* Email : <rnapoleon@imajine.ht>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Let's keep in touch
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![LinkedIn Account](https://res.cloudinary.com/napo05/image/upload/c_scale,w_40/v1635287719/SocialMediaLogo/NicePng_linkedin-images-png_9192440_w8rfwf.png)](https://www.linkedin.com/in/rodolpho-richard-napoleon-30337113/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Twitter Account](https://res.cloudinary.com/napo05/image/upload/c_scale,w_40/v1635289001/SocialMediaLogo/NicePng_metlife-logo-png_9274906_xn6ecf.png)](https://twitter.com/papinapo)
 
-### `npm run eject`
+## Roadmap
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Create the pages for all footer links
